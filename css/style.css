@@ -1,4 +1,6 @@
 .navbar-nav li:hover {
 	background:#999;
 }
-
+.list-group li:hover {
+	background:#f6f6f6;
+}
